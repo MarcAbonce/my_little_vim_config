@@ -3,6 +3,7 @@ source $VIMRUNTIME/defaults.vim
 
 set autoread
 
+set title
 set number
 
 set nofoldenable
