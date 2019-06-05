@@ -6,5 +6,9 @@ set autoread
 set title
 set number
 
+set tabstop=4
+
 set nofoldenable
 set foldmethod=indent
+
+set nomodeline
