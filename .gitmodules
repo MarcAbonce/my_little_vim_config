@@ -4,3 +4,6 @@
 [submodule "pack/plugins/opt/sleuth"]
 	path = pack/plugins/opt/sleuth
 	url = https://github.com/tpope/vim-sleuth.git
+[submodule "pack/plugins/start/matchit"]
+	path = pack/plugins/start/matchit
+	url = https://github.com/vim-scripts/matchit.zip

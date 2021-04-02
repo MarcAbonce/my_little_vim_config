@@ -5,6 +5,12 @@ set nocompatible
 set title
 set number
 
+:filetype plugin on
+
+" search
+set incsearch
+set hlsearch
+
 " indent
 set autoindent
 set smartindent
